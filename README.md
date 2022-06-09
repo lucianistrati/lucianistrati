@@ -12,10 +12,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianistrati&hide_border=true" />
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianistrati&label=Profile%20views&color=0e75b6&style=flat" alt="lucianistrati" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianistrati" alt="lucianistrati" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
