@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning about AI
 - 💬 Ask me about NLP, ML, AI, DS, DL
 - 📫 How to reach me: mail me at lucianistrati@yahoo.com and connect with me on LinkedIn https://www.linkedin.com/in/lucian-istrati/
-- ⚡ Fun fact: My favorite book is "Wealth of Nations"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianistrati&count_private=true&show_icons=true&hide=prs,issues)
 
