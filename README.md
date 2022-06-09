@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**lucianistrati/lucianistrati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on an NLP project
 - 🌱 I’m currently learning about AI
 - 💬 Ask me about NLP, ML, AI, DS, DL
