@@ -2,7 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=lucianistrati&color=green)
 - 🔭 I’m currently working on an NLP project
 - 💬 Ask me about NLP, ML, AI, DS, DL
-- 📫 How to reach me: mail me at lucianistrati@yahoo.com or connect with me on LinkedIn https://www.linkedin.com/in/lucian-istrati/
+- 📫 Reach me by:
+  - email at lucianistrati@yahoo.com 
+  - connect with me on LinkedIn at https://www.linkedin.com/in/lucian-istrati/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianistrati&count_private=true&show_icons=true&hide=prs,issues)
 
