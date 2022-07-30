@@ -10,9 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianistrati&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianistrati&hide_border=true" />
-</p>
+
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianistrati" alt="lucianistrati" /></a> </p>
 
