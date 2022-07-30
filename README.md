@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=lucianistrati&color=green)
 - 🔭 I’m currently working on an NLP project
 - 💬 Ask me about NLP, ML, AI, DS, DL
-- 📫 Reach me by:
+- 📫 Reach me by: 
   - email at lucianistrati@yahoo.com 
   - connect with me on LinkedIn at https://www.linkedin.com/in/lucian-istrati/
 
