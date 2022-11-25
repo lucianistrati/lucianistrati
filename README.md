@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=lucianistrati&color=green)
-- 🔭 I’m currently working on an NLP project
+- 🔭 I’m currently working on a NLP project
 - 💬 Ask me about NLP, ML, AI, DS, DL
 - 📫 Reach me by: 
   - email at lucianistrati@yahoo.com 
