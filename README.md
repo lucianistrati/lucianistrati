@@ -3,12 +3,8 @@
 - 🔭 I’m currently working on a NLP project
 - 💬 Ask me about NLP, ML, AI, DS, DL
 - 📫 Reach me by: 
-  - email at lucianistrati@yahoo.com 
-  - connect with me on LinkedIn at https://www.linkedin.com/in/lucian-istrati/
-  - follow me on Twitter at https://twitter.com/LucianIstrati
-  - read some of my articles on Medium / Towards Data Science at https://medium.com/@lucianistrati99
-  - subscribe to my substack to get notified when I post naythign at https://substack.com/@lucianistrati?utm_source=profile-page
-  
+  - LinkedIn at https://www.linkedin.com/in/lucian-istrati/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianistrati&count_private=true&show_icons=true&hide=prs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianistrati&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
