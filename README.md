@@ -4,6 +4,7 @@
 - 💬 Ask me about NLP, ML, AI, DS, DL
 - 📫 Reach me by: 
   - LinkedIn at https://www.linkedin.com/in/lucian-istrati/
+- Currently based in Abu Dhabi, United Arab Emirates 🇦🇪
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianistrati&count_private=true&show_icons=true&hide=prs,issues)
 
