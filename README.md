@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=lucianistrati&color=green)
-- 🔭 I’m currently working on a NLP project
+- 🔭 Working on Generative AI & Agentic projects
 - 💬 Ask me about NLP, ML, AI, DS, DL
 - 📫 Reach me by: 
   - LinkedIn at https://www.linkedin.com/in/lucian-istrati/
